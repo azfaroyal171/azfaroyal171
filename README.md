@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🚀 About Me
 
-<!--
-**azfaroyal171/azfaroyal171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Azfar**, a FullStack Software Engineer.
 
-Here are some ideas to get you started:
+- 🎓  Graduate of **Universiti Teknologi Malaysia (UTM)**.
+- 💻  Passionate about writing clean, maintainable code.
+- 🗄️  Experienced in designing and querying complex SQL databases.
+- ⚡  Always looking for ways to optimize system performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Technologies
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+[LinkedIn Profile](https://www.linkedin.com/in/mazfarhaziq/)
